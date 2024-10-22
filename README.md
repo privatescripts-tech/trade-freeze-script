@@ -1,5 +1,6 @@
 # trade-freeze-script
 trade freeze script 
+ 
  List of games compatible with the script
 
  - Pet Simulator 99
