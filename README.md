@@ -19,3 +19,6 @@ trade freeze script
  - Toilet Tower Defense
 
  - Anime Defenders
+
+
+( DO NOT SHARE THIS SCRIPT OR IT WILL GET PATCHED ) & ( DONT ABUSE THE TRADE FREEZE FEATURE )
